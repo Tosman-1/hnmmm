@@ -1,0 +1,46 @@
+.n-g{
+  margin: 10px 0 0 0;
+}
+
+.mcn-t{
+  margin: 0 0 0 20px;
+}
+.mc-mm{
+  display: flex;
+  padding: 10px 30px;
+}
+.nn-i{
+  width: 30px;
+  height: 30px;
+  fill: #2e9ddd;
+  margin: 0 10px 0 0;
+}
+.nn-ii{
+ fill: #f1f6f9; 
+}
+
+.mcn-im{
+  display: flex;
+  gap: 10px;
+}
+.mcn-pc img{
+  border-radius: 50%;
+  width: 30px;
+}
+.mcn-tt{
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  margin: 10px 0;
+}
+
+.ns-t{
+  font-size: 16px;
+}
+.ns-t span{
+  font-family: bolded;
+}
+
+.mc-mc{
+  cursor: pointer;
+}
